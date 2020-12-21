@@ -1,0 +1,68 @@
+/**********************TAG SELECTORS*******************************************/
+body {
+  background-color: #ffffff;
+  margin: 0 0 0 0;
+}
+
+div {
+  background-color: #ffe0f7;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-color: #D9ADAD;
+  border-width: 5px;
+}
+
+img {
+  height: 300px;
+}
+
+p {
+  color: #838383;
+}
+
+h1 {
+  color: #838383;
+  margin-top: 0;
+}
+
+h2 {
+  color: #AD9D9D;
+}
+
+h3 {
+  color: #AD9D9D;
+  margin-left: 10px;
+}
+
+/********************CLASS SELECTORS*******************************************/
+.top-container {
+  margin: 0 0 0 0;
+}
+
+.middle-container {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.name {
+  color: black;
+}
+
+.profilePic {
+  border-radius: 100%;
+}
+
+/********************ID SELECTORS**********************************************/
+#headingxd {
+  color: blue;
+}
